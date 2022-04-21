@@ -1,8 +1,10 @@
 POCZATEK
 Linia nr 1
 Zmieniona linia Ann
+Dodana linia Ann
 Linia nr 3
 Nowa linia Ann
+Jeszcze nowsza linia Ann
 Linia Zeda
 Linia nr 5
 KONIEC
