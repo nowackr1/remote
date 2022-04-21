@@ -1,0 +1,7 @@
+POCZATEK
+Linia nr 1
+Linia Ann
+Linia nr 3
+Linia Zeda
+Linia nr 5
+KONIEC
