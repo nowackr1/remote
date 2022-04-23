@@ -1,0 +1,12 @@
+diff --git a/develop1.txt b/develop1.txt
+index 257ac44..abfed49 100644
+--- a/develop1.txt
++++ b/develop1.txt
+@@ -1,2 +1,4 @@
+ Develop 1
+-Feature 1
+\ No newline at end of file
++Feature 1
++Hotfix 1
++Hotfix 2
+\ No newline at end of file
